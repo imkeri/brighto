@@ -1,0 +1,42 @@
+{
+  "common": {
+    "greeting": "Hello, World!",
+    "welcome": "Welcome to my React App!",
+    "submit": "Submit",
+    "email": "Email",
+    "backToLogin": "Back to Login"
+  },
+  "login": {
+    "loginLable": "Log in",
+    "headinglogin": "AI-Driven Onboarding Solution",
+    "heading": "Log in to admin account",
+    "info": " “Get your own customised ready t o use whitelabel product in seconds”",
+    "password": "Password",
+    "robotCheck": "I'm not a robot",
+    "terms": "I agree to terms & conditions",
+    "loginButton": "Login",
+    "forgotPassword": "Forgot password",
+    "footerText": "© 2024 Invincible Ocean Private Limited | All rights reserved",
+    "invalidEmail": "Invalid email address",
+    "required": "This field is required",
+    "termsRequired": "You must agree to the terms and conditions",
+    "minLength": "Password must be at least 6 characters long"
+  },
+  "forgetPassword": {
+    "forgetLabel": "Forget Password",
+    "footerText": "All rights reserved.",
+    "forgotPassword": "Forgot your password?"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "message": "Sorry, the page you are looking for does not exist.",
+    "backToHome": "Back to Home"
+  },
+  "profileUpdate":{
+"requiredFirstName":"First Name is required",
+"requiredFLastName":"Last Name is required",
+"requiredInvalidEmail":"Invalid email address" ,
+"requiredPhone":"Phone Number is required" 
+
+  }
+}

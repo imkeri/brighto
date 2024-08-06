@@ -1,0 +1,20 @@
+
+.table thead th {
+  background-color:whitesmoke; 
+  color: #1c2347;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.nav-tabs .nav-link{
+  font-size: 20px;
+  color:#929191;
+}
+
+.user_icon .camera{
+	opacity: 0;
+	transition-duration: .5s;
+}
+.user_icon:hover .camera{
+	opacity: 1;
+}
